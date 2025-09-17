@@ -17,7 +17,6 @@ public class Aula06_EstruturasDeRepeticao01 {
         
         }while(contador < 10);
        
-        //Laço de repetição FOR
 
         for(int i =0; i <=15; i++){
             System.out.println("i: " + i);
