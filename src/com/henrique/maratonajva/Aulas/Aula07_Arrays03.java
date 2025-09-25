@@ -8,7 +8,6 @@ public class Aula07_Arrays03 {
         marcas[2] = "Hyundai";
         char[] letras = {'a','b','c','d','e'};
         int[] numeros3 = new int[]{1,2,3,4,5};
-        String[] roupas = {"calça", "short", "blusa"};
         for(int i = 0; i<3; i++){
             System.out.println(marcas[i]);
         }
@@ -18,6 +17,5 @@ public class Aula07_Arrays03 {
         for (int carros:numeros3) {
             System.out.println(carros);
         }
-    }
-    
+    }   
 }
