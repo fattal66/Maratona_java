@@ -1,4 +1,4 @@
-package com.henrique.maratonajva.Aulas;
+package com.henrique.maratonajava.introducao.aulas;
 
 public class Aula07_Arrays03 {
     public static void main(String[] args) {
@@ -8,13 +8,13 @@ public class Aula07_Arrays03 {
         marcas[2] = "Hyundai";
         char[] letras = {'a','b','c','d','e'};
         int[] numeros3 = new int[]{1,2,3,4,5};
-        for(int i = 0; i<3; i++){
-            System.out.println(marcas[i]);
+        for(int i = 0; i<5; i++){
+            System.out.println(numeros3[i]);
         }
         for (int i = 0; i < letras.length ; i++) {
             System.out.println(letras[i]);
         }
-        for (int carros:numeros3) {
+        for (String carros:marcas) {
             System.out.println(carros);
         }
     }   

@@ -1,4 +1,4 @@
-package com.henrique.maratonajva.Exercicios;
+package com.henrique.maratonajava.Exercicios;
 
 public class Aula04_ExercicioSalarioEtruturaCondicional {
     public static void main(String[] args) {

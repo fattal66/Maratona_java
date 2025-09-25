@@ -1,4 +1,4 @@
-package com.henrique.maratonajva.Aulas;
+package com.henrique.maratonajava.introducao.aulas;
 import java.util.Scanner;
 
 public class Aula05_Switch {

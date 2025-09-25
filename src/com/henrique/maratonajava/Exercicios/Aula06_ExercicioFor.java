@@ -1,4 +1,4 @@
-package com.henrique.maratonajva.Exercicios;
+package com.henrique.maratonajava.Exercicios;
 
 public class Aula06_ExercicioFor {
     public static void main(String[] args) {

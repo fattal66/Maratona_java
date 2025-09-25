@@ -1,4 +1,4 @@
-package com.henrique.maratonajva.Exercicios;
+package com.henrique.maratonajava.Exercicios;
 
 import java.util.Scanner;
 

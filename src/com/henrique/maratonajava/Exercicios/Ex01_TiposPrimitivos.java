@@ -1,4 +1,4 @@
-package com.henrique.maratonajva.Exercicios;
+package com.henrique.maratonajava.Exercicios;
 
 public class Ex01_TiposPrimitivos {
     public static void main(String[] args) {
